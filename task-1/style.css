@@ -5,6 +5,8 @@ body {
 
 header {
     height: 30%;
+    background-image: url("/task-1/assets/background.jpg");
+    background-repeat: repeat;
 }
 
 h1 {
